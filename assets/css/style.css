@@ -344,6 +344,10 @@ body {
           margin-left:30% ;
           width: 50%;
         }
+        .home-screen{
+          background-image: url('../images/porateimh.jpg');
+          background-size: cover;
+        }
         .home-screen .home-detail .homexp {
           text-align: center; } }
       .home-screen .home-detail .homexp h2 {

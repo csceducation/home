@@ -25,3 +25,6 @@ document.getElementById('but').addEventListener('click',() => {
     
 
 
+document.getElementById('enquirys').addEventListener('change',() =>{
+    window.location.href =`${ document.getElementById('enquirys').value}/enquiryform`
+})
